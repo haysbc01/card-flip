@@ -8,10 +8,6 @@
 		-webkit-backface-visibility
 */
 
-.portfolio-item {
-    float: left;
-}
-
 .front, .back {
 	background: #cccccc;
 	transition: -webkit-transform 2s;
